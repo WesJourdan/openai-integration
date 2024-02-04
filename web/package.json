@@ -1,5 +1,5 @@
 {
-  "name": "yote-web",
+  "name": "openai-integration",
   "version": "3.0.0",
   "private": true,
   "dependencies": {
